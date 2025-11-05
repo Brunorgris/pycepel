@@ -1,0 +1,27 @@
+ULOG                                                                
+ 2
+c:/python_github/python_cepel/libs/ajusta_caso.SAV
+ARQV REST
+98
+
+DBAR
+    12L1 GERRO---IPU50 G           0.   0.-999999999                     10010000
+430002L2 NAYO B1   500 N1050  0.   0.   0.-999999999                     10310260
+99999
+EXLF NEWT CREM CTAP VLIM STEP RMON MFCT RCVG
+
+TITU
+ajusta_caso_exe
+ARQV GRAV SUBS AREG NOVO
+98
+
+ULOG                                                                
+ 7
+c:/python_github/python_cepel/libs/resultado.pwf
+CART                                                                
+
+( Fecha ANAREDE 
+DOSC 
+TASKKILL /T /F /IM ANAREDE.EXE 
+99999 
+FIM
